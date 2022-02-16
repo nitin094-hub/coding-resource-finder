@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/projects/coding-resource-finder/static/css/main.97a161ac.chunk.css",
-    "main.js": "/projects/coding-resource-finder/static/js/main.fc11c5f4.chunk.js",
-    "main.js.map": "/projects/coding-resource-finder/static/js/main.fc11c5f4.chunk.js.map",
-    "runtime-main.js": "/projects/coding-resource-finder/static/js/runtime-main.9455f724.js",
-    "runtime-main.js.map": "/projects/coding-resource-finder/static/js/runtime-main.9455f724.js.map",
-    "static/js/2.861acb3c.chunk.js": "/projects/coding-resource-finder/static/js/2.861acb3c.chunk.js",
-    "static/js/2.861acb3c.chunk.js.map": "/projects/coding-resource-finder/static/js/2.861acb3c.chunk.js.map",
-    "index.html": "/projects/coding-resource-finder/index.html",
-    "static/css/main.97a161ac.chunk.css.map": "/projects/coding-resource-finder/static/css/main.97a161ac.chunk.css.map",
-    "static/js/2.861acb3c.chunk.js.LICENSE.txt": "/projects/coding-resource-finder/static/js/2.861acb3c.chunk.js.LICENSE.txt"
+    "main.css": "/coding-resource-finder/static/css/main.037d4afc.css",
+    "main.js": "/coding-resource-finder/static/js/main.b0badbe4.js",
+    "index.html": "/coding-resource-finder/index.html",
+    "main.037d4afc.css.map": "/coding-resource-finder/static/css/main.037d4afc.css.map",
+    "main.b0badbe4.js.map": "/coding-resource-finder/static/js/main.b0badbe4.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.9455f724.js",
-    "static/js/2.861acb3c.chunk.js",
-    "static/css/main.97a161ac.chunk.css",
-    "static/js/main.fc11c5f4.chunk.js"
+    "static/css/main.037d4afc.css",
+    "static/js/main.b0badbe4.js"
   ]
 }
