@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/codingresourcefinder/static/css/main.97a161ac.chunk.css",
-    "main.js": "/codingresourcefinder/static/js/main.fc11c5f4.chunk.js",
-    "main.js.map": "/codingresourcefinder/static/js/main.fc11c5f4.chunk.js.map",
-    "runtime-main.js": "/codingresourcefinder/static/js/runtime-main.127cb13d.js",
-    "runtime-main.js.map": "/codingresourcefinder/static/js/runtime-main.127cb13d.js.map",
-    "static/js/2.861acb3c.chunk.js": "/codingresourcefinder/static/js/2.861acb3c.chunk.js",
-    "static/js/2.861acb3c.chunk.js.map": "/codingresourcefinder/static/js/2.861acb3c.chunk.js.map",
-    "index.html": "/codingresourcefinder/index.html",
-    "static/css/main.97a161ac.chunk.css.map": "/codingresourcefinder/static/css/main.97a161ac.chunk.css.map",
-    "static/js/2.861acb3c.chunk.js.LICENSE.txt": "/codingresourcefinder/static/js/2.861acb3c.chunk.js.LICENSE.txt"
+    "main.css": "/projects/coding-resource-finder/static/css/main.97a161ac.chunk.css",
+    "main.js": "/projects/coding-resource-finder/static/js/main.fc11c5f4.chunk.js",
+    "main.js.map": "/projects/coding-resource-finder/static/js/main.fc11c5f4.chunk.js.map",
+    "runtime-main.js": "/projects/coding-resource-finder/static/js/runtime-main.9455f724.js",
+    "runtime-main.js.map": "/projects/coding-resource-finder/static/js/runtime-main.9455f724.js.map",
+    "static/js/2.861acb3c.chunk.js": "/projects/coding-resource-finder/static/js/2.861acb3c.chunk.js",
+    "static/js/2.861acb3c.chunk.js.map": "/projects/coding-resource-finder/static/js/2.861acb3c.chunk.js.map",
+    "index.html": "/projects/coding-resource-finder/index.html",
+    "static/css/main.97a161ac.chunk.css.map": "/projects/coding-resource-finder/static/css/main.97a161ac.chunk.css.map",
+    "static/js/2.861acb3c.chunk.js.LICENSE.txt": "/projects/coding-resource-finder/static/js/2.861acb3c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.127cb13d.js",
+    "static/js/runtime-main.9455f724.js",
     "static/js/2.861acb3c.chunk.js",
     "static/css/main.97a161ac.chunk.css",
     "static/js/main.fc11c5f4.chunk.js"
