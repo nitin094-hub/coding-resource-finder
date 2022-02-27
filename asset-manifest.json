@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/coding-resource-finder/static/css/main.037d4afc.css",
-    "main.js": "/coding-resource-finder/static/js/main.0faee29c.js",
+    "main.css": "/coding-resource-finder/static/css/main.f837f638.css",
+    "main.js": "/coding-resource-finder/static/js/main.c9d0e060.js",
     "index.html": "/coding-resource-finder/index.html",
-    "main.037d4afc.css.map": "/coding-resource-finder/static/css/main.037d4afc.css.map",
-    "main.0faee29c.js.map": "/coding-resource-finder/static/js/main.0faee29c.js.map"
+    "main.f837f638.css.map": "/coding-resource-finder/static/css/main.f837f638.css.map",
+    "main.c9d0e060.js.map": "/coding-resource-finder/static/js/main.c9d0e060.js.map"
   },
   "entrypoints": [
-    "static/css/main.037d4afc.css",
-    "static/js/main.0faee29c.js"
+    "static/css/main.f837f638.css",
+    "static/js/main.c9d0e060.js"
   ]
 }
